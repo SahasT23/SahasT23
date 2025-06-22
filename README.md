@@ -11,3 +11,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahasT23&" alt="SahasT23" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahasT23&show_icons=true&locale=en&layout=compact" alt="SahasT23" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahasT23" alt="SahasT23" /></a></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
