@@ -26,5 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=SahasT23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Portablefire WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yuumi_OTP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
